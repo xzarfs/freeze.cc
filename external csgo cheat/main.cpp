@@ -1,3 +1,4 @@
+// NOW ON GITHUB!!
 #include "stdafx.h"
 #include "mem.h"
 #include "cheat_manager.h"

@@ -1,0 +1,13 @@
+//precompiled header
+#pragma once
+#include "offsets.h"
+#include <ctime>
+#include <thread>
+#include <Windows.h>
+#include <TlHelp32.h>
+#include <iostream>
+#include <vector>
+#include <string>
+#include <wchar.h>
+#include <corecrt_wstring.h>
+#include <map>
